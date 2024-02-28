@@ -1,0 +1,77 @@
+
+/* Styles for header and navigation */
+header {
+  background-color: #f1f1f1;
+  padding: 10px;
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline;
+  margin-right: 10px;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: #333;
+}
+
+/* Styles for hero section */
+.hero {
+  background-color: #ddd;
+  text-align: center;
+  padding: 50px;
+}
+
+.hero h1 {
+  font-size: 32px;
+}
+
+/* Styles for content section */
+.content {
+  padding: 20px;
+}
+
+/* Styles for sidebar */
+.sidebar {
+  background-color: #f1f1f1;
+  padding: 20px;
+}
+
+/* Styles for footer */
+footer {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  padding: 10px;
+}
+
+footer .social-media {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+footer .social-media li {
+  display: inline;
+  margin-right: 10px;
+}
+
+/* Styles for button animation */
+button {
+  background-color: blue;
+  color: white;
+  font-size: 20px;
+  padding: 10px 20px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: darkblue;
+}
